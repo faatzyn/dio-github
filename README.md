@@ -1,2 +1,2 @@
 # dio-github
-segundo passo
+Projeto para Bootcamp Eduzz
